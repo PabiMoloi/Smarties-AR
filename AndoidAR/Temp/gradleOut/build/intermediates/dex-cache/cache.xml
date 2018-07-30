@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PMoloi\Documents\AndoidAR\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="28.0.1"
+        sha1="dfebecd7c74ce8d85b5678d72931559099934c98">
+        <dex dex="C:\Users\PMoloi\Documents\AndoidAR\Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PMoloi\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\c350440b2db70ac563f174d2a0e8b8be\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="28.0.1"
+        sha1="b2a53d38a505be89060de16e0ff5280f5642c9da">
+        <dex dex="C:\Users\PMoloi\Documents\AndoidAR\Temp\gradleOut\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PMoloi\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\c350440b2db70ac563f174d2a0e8b8be\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="28.0.1"
+        sha1="43e2c75a74132e6287974dcac936fa93db1f5f84">
+        <dex dex="C:\Users\PMoloi\Documents\AndoidAR\Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PMoloi\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\c350440b2db70ac563f174d2a0e8b8be\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="28.0.1"
+        sha1="d46bca2836cb936675a51f8d54e3402015d835cb">
+        <dex dex="C:\Users\PMoloi\Documents\AndoidAR\Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+
+</items>

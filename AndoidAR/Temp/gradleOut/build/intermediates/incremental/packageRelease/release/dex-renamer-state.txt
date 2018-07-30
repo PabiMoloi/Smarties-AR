@@ -1,0 +1,4 @@
+#Fri Jul 27 14:47:03 CAT 2018
+base.0=C\:\\Users\\PMoloi\\Documents\\AndoidAR\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
